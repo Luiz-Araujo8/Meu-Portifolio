@@ -7,7 +7,7 @@ Estou no início da minha trajetória profissional e busco uma oportunidade para
 ## Educação
 
 - Tecnólogo em Análise e Desenvolvimento de Sistemas – FATEC Campinas  
-  4º semestre – Previsão de conclusão: 2026
+  5º semestre – Previsão de conclusão: 2026
 
 - Ensino Médio com Habilitação Profissional Técnica em Análise e Desenvolvimento de Sistemas Web – SENAC-SP  
   Conclusão: 2023
