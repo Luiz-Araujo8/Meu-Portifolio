@@ -1,39 +1,99 @@
-# Sobre Mim
+# Olá! Eu sou Luiz Araujo 👋
 
-Estou no início da minha trajetória profissional e busco uma oportunidade para aplicar e desenvolver minhas habilidades. Apesar da falta de experiência prática, compenso com empenho, dedicação e grande disposição para aprender e crescer na área.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Campinas  
+🧪 Estagiário de QA / Testes de Software  
+💻 Interesse em Qualidade de Software, Automação de Testes e Desenvolvimento
 
----
+## Sobre mim
 
-## Educação
+Sou estudante de Análise e Desenvolvimento de Sistemas e atuo profissionalmente na área de **Quality Assurance (QA)**.
 
-- Tecnólogo em Análise e Desenvolvimento de Sistemas – FATEC Campinas  
-  5º semestre – Previsão de conclusão: 2026
+No dia a dia, trabalho com **testes funcionais, exploratórios e de regressão**, análise e validação de requisitos e regras de negócio, elaboração de casos de teste e checklists, identificação e acompanhamento de bugs, retestes e documentação de testes.
 
-- Ensino Médio com Habilitação Profissional Técnica em Análise e Desenvolvimento de Sistemas Web – SENAC-SP  
-  Conclusão: 2023
+Tenho experiência com **Jira, ambientes QAS/HML e metodologias ágeis**, além de conhecimentos em desenvolvimento de software, bancos de dados, APIs e automação de testes.
 
----
-
-## Habilidades e Conhecimentos
-
-### Pacote Office  
-Conhecimento básico em Microsoft Word, Excel e PowerPoint para criação de documentos, planilhas e apresentações.
-
-### Inglês  
-Intermediário B2 – Certificação TOEIC Listening and Reading  
-Pontuação: 885 pontos
-
-### Programação e Banco de Dados  
-Conhecimentos em lógica de programação e desenvolvimento com:  
-- Linguagens: HTML, CSS, JavaScript, Java, SQL  
-- Conceitos: Orientação a objetos, estruturas de dados  
-- Banco de dados relacionais (MySQL)
-
-### Comunicação  
-Facilidade em trabalhar em equipe, promovendo um ambiente colaborativo através da comunicação aberta e eficiente.
+Atualmente, busco continuar evoluindo na área de QA, com foco em **automação de testes, testes de API e qualidade de software**, enquanto amplio meus conhecimentos em desenvolvimento e engenharia de software.
 
 ---
 
-## Informações adicionais
+## 🧪 QA e Testes
 
-- CNH: Carteira Nacional de Habilitação Categoria B
+- Testes funcionais
+- Testes exploratórios
+- Testes de regressão
+- Elaboração e execução de casos de teste
+- Validação de requisitos e regras de negócio
+- Identificação e acompanhamento de bugs
+- Retestes de correções
+- Documentação e checklists
+- Jira
+- QAS / HML
+- Postman e APIs REST
+- Cypress
+
+---
+
+## 💻 Desenvolvimento
+
+### Linguagens e tecnologias
+
+- Python
+- Java
+- C++
+- C#
+- PHP
+- JavaScript
+- HTML
+- CSS
+
+### Banco de dados
+
+- MySQL
+- MongoDB
+- SQL
+
+### Outros conhecimentos
+
+- Git / GitHub
+- Scrum / Agile
+- UML
+- Bootstrap
+- VS Code
+- Eclipse
+- Power BI
+
+---
+
+## 🎓 Educação
+
+**FATEC Campinas**  
+Tecnólogo em Análise e Desenvolvimento de Sistemas  
+2024 – 2026 | Previsão de conclusão: 2026
+
+**SENAC**  
+Ensino Médio com Habilitação Profissional Técnica em Análise e Desenvolvimento de Sistemas Web  
+2020 – 2023
+
+---
+
+## 📂 Projetos
+
+### 🗄️ Projeto CRUD
+Sistema para gerenciamento de produtos e categorias utilizando MySQL, com operações CRUD, AJAX, JSON, JOIN, GROUP BY e controle de permissões.
+
+### 🐍 Organizador Automático de Arquivos
+Projeto desenvolvido em Python para organização automática de arquivos em diretórios de acordo com seus tipos.
+
+---
+
+## 🌎 Idiomas
+
+**Inglês — B2 (Intermediário-Avançado)**  
+TOEIC Listening & Reading — **885 pontos**
+
+---
+
+## 📌 Informações adicionais
+
+
+- Interesse profissional: QA, Testes de Software, Automação de Testes e Engenharia de Software
