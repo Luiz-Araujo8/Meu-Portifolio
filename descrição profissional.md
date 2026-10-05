@@ -1,99 +1,89 @@
-# Olá! Eu sou Luiz Araujo 👋
+# 🖥️ Portfólio Luiz Araujo
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Campinas  
-🧪 Estagiário de QA / Testes de Software  
-💻 Interesse em Qualidade de Software, Automação de Testes e Desenvolvimento
+Portfólio pessoal desenvolvido com **HTML, CSS e JavaScript**, utilizando uma interface inspirada em terminais de computador retrofuturistas e na estética da estação Sevastopol.
 
-## Sobre mim
+O projeto foi criado para apresentar minha trajetória profissional e acadêmica, conhecimentos técnicos, experiência em **Quality Assurance (QA)**, formação e informações de contato de uma forma diferente de um portfólio tradicional.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atuo profissionalmente na área de **Quality Assurance (QA)**.
+## 🚀 Demonstração
 
-No dia a dia, trabalho com **testes funcionais, exploratórios e de regressão**, análise e validação de requisitos e regras de negócio, elaboração de casos de teste e checklists, identificação e acompanhamento de bugs, retestes e documentação de testes.
+> Portfólio pessoal com interface interativa baseada em um terminal de computador.
 
-Tenho experiência com **Jira, ambientes QAS/HML e metodologias ágeis**, além de conhecimentos em desenvolvimento de software, bancos de dados, APIs e automação de testes.
+Acesse o projeto:
 
-Atualmente, busco continuar evoluindo na área de QA, com foco em **automação de testes, testes de API e qualidade de software**, enquanto amplio meus conhecimentos em desenvolvimento e engenharia de software.
+🔗 [GitHub](https://github.com/Luiz-Araujo8)
 
 ---
 
-## 🧪 QA e Testes
+## 🎯 Objetivo
 
-- Testes funcionais
-- Testes exploratórios
-- Testes de regressão
-- Elaboração e execução de casos de teste
-- Validação de requisitos e regras de negócio
-- Identificação e acompanhamento de bugs
-- Retestes de correções
-- Documentação e checklists
-- Jira
-- QAS / HML
-- Postman e APIs REST
-- Cypress
+O objetivo do projeto é apresentar meu perfil profissional de maneira visualmente diferenciada, combinando informações de currículo com uma experiência interativa inspirada em interfaces de computadores antigos.
 
----
+Além de servir como portfólio, o projeto também demonstra conhecimentos práticos em:
 
-## 💻 Desenvolvimento
-
-### Linguagens e tecnologias
-
-- Python
-- Java
-- C++
-- C#
-- PHP
+- Desenvolvimento web
+- HTML semântico
+- CSS e estilização avançada
 - JavaScript
-- HTML
-- CSS
-
-### Banco de dados
-
-- MySQL
-- MongoDB
-- SQL
-
-### Outros conhecimentos
-
-- Git / GitHub
-- Scrum / Agile
-- UML
-- Bootstrap
-- VS Code
-- Eclipse
-- Power BI
+- Design responsivo
+- Acessibilidade
+- Manipulação do DOM
+- Animações e efeitos visuais
+- Organização de interfaces
 
 ---
 
-## 🎓 Educação
+## 🛠️ Tecnologias utilizadas
 
-**FATEC Campinas**  
-Tecnólogo em Análise e Desenvolvimento de Sistemas  
-2024 – 2026 | Previsão de conclusão: 2026
+### Front-end
 
-**SENAC**  
-Ensino Médio com Habilitação Profissional Técnica em Análise e Desenvolvimento de Sistemas Web  
-2020 – 2023
+- HTML5
+- CSS3
+- JavaScript
+- Google Fonts
 
----
+### Conceitos utilizados
 
-## 📂 Projetos
-
-### 🗄️ Projeto CRUD
-Sistema para gerenciamento de produtos e categorias utilizando MySQL, com operações CRUD, AJAX, JSON, JOIN, GROUP BY e controle de permissões.
-
-### 🐍 Organizador Automático de Arquivos
-Projeto desenvolvido em Python para organização automática de arquivos em diretórios de acordo com seus tipos.
-
----
-
-## 🌎 Idiomas
-
-**Inglês — B2 (Intermediário-Avançado)**  
-TOEIC Listening & Reading — **885 pontos**
+- CSS Grid
+- Flexbox
+- CSS Variables
+- Media Queries
+- Animações CSS
+- Manipulação do DOM
+- Eventos de teclado
+- Design responsivo
+- `prefers-reduced-motion`
+- HTML semântico
+- Acessibilidade
 
 ---
 
-## 📌 Informações adicionais
+## 🖥️ Características
 
+### 📟 Interface de terminal
 
-- Interesse profissional: QA, Testes de Software, Automação de Testes e Engenharia de Software
+A interface foi desenvolvida para simular um terminal de computador, utilizando:
+
+- Tema escuro
+- Tipografia monoespaçada
+- Efeito CRT
+- Linhas de varredura
+- Vinheta
+- Brilho de tela
+- Efeito de flicker
+- Cursor piscando
+- Mensagens de inicialização
+
+---
+
+### ⚡ Tela de inicialização
+
+Ao acessar o portfólio, é exibida uma sequência de inicialização simulando o carregamento de um sistema:
+
+```text
+SEEGSON CORPORATION · SISTEMA OPERACIONAL APOLLO v3.4
+Verificando memória ............ OK
+Montando volume /pessoal ....... OK
+Carregando módulos técnicos .... OK
+Autenticando visitante ......... OK
+
+Terminal pronto. Bem-vindo.
